@@ -1,2 +1,2 @@
-Oi, tudo bem? 👋
+Atualmente estou 👋
 - ☕ Estudando Java ...
