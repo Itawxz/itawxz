@@ -11,7 +11,10 @@ Atualmente estou 👋
   <a href="https://discord.com/users/327233479471398912" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
- <a href="https://discord.com/users/327233479471398912"> 
+
+</div>
+
+<div>
+   <a href="https://discord.com/users/327233479471398912"> 
   <img height="150em" src="https://lanyard.cnrad.dev/api/327233479471398912"/>
 </div>
