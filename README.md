@@ -13,8 +13,3 @@ Atualmente estou 👋
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<div>
-   <a href="https://discord.com/users/327233479471398912"> 
-  <img height="150em" src="https://lanyard.cnrad.dev/api/327233479471398912"/>
-</div>
